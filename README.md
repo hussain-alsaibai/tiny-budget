@@ -1,8 +1,8 @@
 # tiny-budget
 
 [![CI](https://github.com/hussain-alsaibai/tiny-budget/actions/workflows/ci.yml/badge.svg)](https://github.com/hussain-alsaibai/tiny-budget/actions)
-[![PyPI](https://img.shields.io/pypi/v/tiny-budget)](https://pypi.org/project/tiny-budget/)
-[![Python](https://img.shields.io/pypi/pyversions/tiny-budget)](https://pypi.org/project/tiny-budget/)
+[![Install from GitHub](https://img.shields.io/badge/install-git%2Bhttps-blue)](https://github.com/hussain-alsaibai/tiny-budget#install)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://github.com/hussain-alsaibai/tiny-budget#install)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## LLM Cost Tracking for AI Agents
