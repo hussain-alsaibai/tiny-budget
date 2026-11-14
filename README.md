@@ -21,7 +21,8 @@ attribution per model is the only way to keep a budget honest.
 ## Installation
 
 ```bash
-pip install tiny-budget
+# From GitHub (recommended -- not yet on PyPI)
+pip install git+https://github.com/hussain-alsaibai/tiny-budget.git
 ```
 
 ## Usage
